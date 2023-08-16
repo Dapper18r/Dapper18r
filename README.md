@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dapper18r&show_icons=true&theme=radical)
+<div>
+
+<a href="https://beacons.ai/Dapper18r">
+
+<img height="188em" src="https://github-readme-stats.vercel.app/api?username=Dapper18r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img height="188en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapper18r&layout=compact&langs_count=16&theme=dracula"> 
+</div>
