@@ -1,4 +1,4 @@
-### ✨ sou o rafael✨
+### ✨ sou o rafael
 ### 🔭 tenho trabalhado com python e c++
 ### 🌱 estudando java e html
 
@@ -6,8 +6,10 @@
 
 <a href="https://beacons.ai/Dapper18r">
 
-<img height="188em" src="https://github-readme-stats.vercel.app/api?username=Dapper18r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-<img height="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapper18r&layout=compact&langs_count=16&theme=dracula"> 
+![](https://github-readme-stats.vercel.app/api?username=dapper18r&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dapper18r&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dapper18r&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ### trabalho com:         
@@ -22,11 +24,6 @@
 
  ### redes sociais:
 </div>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@caxitos" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=whit" target="_blank"></a>
-<a href="https://instagram.com/dapper18r" target="_blank"><img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/caixitos#3206) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dapper18r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dp_barros) 
 
-</div>
-                    
-          
