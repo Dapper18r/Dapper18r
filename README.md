@@ -3,6 +3,8 @@
 ### 🌱 estudando java e html
 
 <div>
+<img align="righ" alt="Rafa-React"
+ src="https://cdn.discordapp.com/attachments/1141545773914406976/1141545897189179413/MyGif_1692235976585.gif" />
 
 <a href="https://beacons.ai/Dapper18r">
 
@@ -25,5 +27,7 @@
  ### redes sociais:
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/caixitos#3206) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dapper18r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dp_barros) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/caixitos#3206) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dapper18r)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dp_barros) 
 
