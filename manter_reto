@@ -1,0 +1,9 @@
+elif gyro_sensor_in2.angle == 0:
+    	tank_drive.on(30,30)
+	elif gyro_sensor_in2.angle > 0:
+    	tank_drive.on(2,10)
+    	print('Vou pra esquerda')
+	elif gyro_sensor_in2.angle < 0:
+    	tank_drive.on(10,2)
+    	print('Vou pra direita')
+   
